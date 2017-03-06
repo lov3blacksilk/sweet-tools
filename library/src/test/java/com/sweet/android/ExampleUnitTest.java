@@ -1,4 +1,4 @@
-package com.sweet.tools;
+package com.sweet.android;
 
 import org.junit.Test;
 

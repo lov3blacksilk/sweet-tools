@@ -1,4 +1,4 @@
-package com.sweet.tools;
+package com.sweet.util;
 
 import org.junit.Test;
 

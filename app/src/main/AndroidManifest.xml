@@ -1,4 +1,4 @@
-<manifest package="com.sweet.tools"
+<manifest package="com.sweet.util"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
